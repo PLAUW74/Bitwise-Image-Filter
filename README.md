@@ -6,7 +6,7 @@ A small C++ project that uses bit manipulation to apply a color inversion filter
 
 ## How to Use
 
-1. Place your input image (`image.jpg` or `.png`) in the same folder as `main.cpp`.
+1. Place your input image (`image.jpg`) in the same folder as `main.cpp`.
 2. Compile the program:
 ```bash
 g++ main.cpp -o bitfilter
